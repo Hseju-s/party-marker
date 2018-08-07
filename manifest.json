@@ -1,0 +1,15 @@
+{
+  "files": {
+    "index.js": "0f2162814d61a33d845b97a876434609d90c9d25562bc8b2170ea84ef832b5ae",
+    "README.md": "5841ae02c559ae6a991249b0f0ddd361c38f4240294170b0189a20559cf70238"
+  },
+   "defs": {
+	  "S_LOGIN": 10,
+	  "S_SPAWN_USER": 13,
+	  "S_PARTY_MEMBER_LIST": 6,
+      "S_CHANGE_PARTY_MANAGER": 1,
+      "S_PARTY_MEMBER_STAT_UPDATE": 3,
+      "S_PARTY_MARKER": 1,
+      "C_PARTY_MARKER": 1
+  }
+}
